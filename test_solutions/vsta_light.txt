@@ -1,0 +1,32 @@
+File: stats_light1.txt
+Count: 24
+Mean: 1.958333
+Mode: 2
+Median: 2.000000
+Q1: 1.000000
+Q3: 3.000000
+Min: 1
+Max: 3
+
+File: stats_light2.txt
+Count: 24
+Mean: 1.666667
+Mode: 1
+Median: 2.000000
+Q1: 1.000000
+Q3: 2.000000
+Min: 1
+Max: 3
+
+Histogram: 
+1   :-------------------
+2   :-------------------
+3   :----------
+Count: 48
+Mean: 1.812500
+Mode: 1  2 
+Median: 2.000000
+Q1: 1.000000
+Q3: 2.000000
+Min: 1
+Max: 3

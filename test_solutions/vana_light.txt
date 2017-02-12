@@ -1,0 +1,22 @@
+File: ana_light3.txt
+Longest line length: 20
+Longest line number: 5
+
+File: ana_light1.txt
+Longest line length: 8
+Longest line number: 2
+
+File: ana_light2.txt
+Longest line length: 14
+Longest line number: 4
+
+FILE: ana_light3.txt
+Longest line length: 20
+Longest line number: 5
+
+Total Bytes in directory: 117
+Histogram:
+ 10:-------------
+ 97:------------
+ 98:------------------------------
+ 99:--------------------------------------------------------------
